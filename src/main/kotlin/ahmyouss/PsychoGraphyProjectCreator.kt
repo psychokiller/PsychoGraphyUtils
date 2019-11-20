@@ -37,9 +37,6 @@ class PsychoGraphyProjectCreator: CliktCommand() {
         }
 
     }
-
-
-
 }
 
 fun main(args: Array<String>) {
